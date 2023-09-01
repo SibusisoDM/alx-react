@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "build": "^0.1.4",
     "enzyme": "^3.11.0"
   }
 }
